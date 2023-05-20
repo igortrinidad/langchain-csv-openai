@@ -1,0 +1,7 @@
+environ
+langchain
+pandas
+streamlit
+azure-core
+openai
+tabulate
